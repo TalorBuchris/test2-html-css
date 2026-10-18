@@ -115,6 +115,10 @@ article {
     color: var(--gray-text);
     font-size: 12px;
 }
+#all-btn div:hover{
+    background-color: var(--back-green);
+    border-color: var(--green);
+}
 
 #all-card {
     display: flex;
