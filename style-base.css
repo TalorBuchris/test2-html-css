@@ -1,0 +1,12 @@
+:root{
+    --back: #0c0a14;
+    --section: rgb(23, 23, 35);
+    --text: rgb(193, 190, 190);
+    --gray-text: rgb(151, 151, 151);
+    --green: #3ed452;
+    --back-green: #3ed45246;
+    --red: rgb(208, 73, 96);
+    --back-red:  rgba(208, 73, 96, 0.178);
+    --yellow: rgb(208, 188, 73);
+    --back-yellow:  rgb(208, 188, 73, 0.178);
+}
